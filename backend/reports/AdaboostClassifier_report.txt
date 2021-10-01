@@ -1,0 +1,18 @@
+
+AdaBoostClassifier(learning_rate=1, n_estimators=100)
+               precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        67
+           1       0.21      0.98      0.35        54
+           2       0.00      0.00      0.00        66
+           3       1.00      0.99      0.99        71
+           4       0.97      0.97      0.97        70
+           5       0.99      1.00      0.99        74
+           6       0.00      0.00      0.00        60
+
+    accuracy                           0.57       462
+   macro avg       0.45      0.56      0.47       462
+weighted avg       0.48      0.57      0.50       462
+
+ accuracy score: 0.5735930735930735
+ Remarks: Good report

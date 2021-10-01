@@ -1,0 +1,18 @@
+
+RandomForestClassifier(criterion='entropy', n_estimators=200, random_state=0)
+               precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99        67
+           1       0.98      0.94      0.96        54
+           2       0.95      0.94      0.95        66
+           3       1.00      1.00      1.00        71
+           4       1.00      1.00      1.00        70
+           5       1.00      1.00      1.00        74
+           6       0.92      0.97      0.94        60
+
+    accuracy                           0.98       462
+   macro avg       0.98      0.98      0.98       462
+weighted avg       0.98      0.98      0.98       462
+
+ accuracy score: 0.9783549783549783
+ Remarks: good Model

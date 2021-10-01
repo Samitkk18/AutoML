@@ -1,0 +1,18 @@
+
+DecisionTreeClassifier(criterion='entropy', random_state=0)
+               precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99        67
+           1       0.94      0.93      0.93        54
+           2       0.94      0.92      0.93        66
+           3       1.00      1.00      1.00        71
+           4       1.00      1.00      1.00        70
+           5       1.00      1.00      1.00        74
+           6       0.90      0.93      0.92        60
+
+    accuracy                           0.97       462
+   macro avg       0.97      0.97      0.97       462
+weighted avg       0.97      0.97      0.97       462
+
+ accuracy score: 0.9696969696969697
+ Remarks: good Model

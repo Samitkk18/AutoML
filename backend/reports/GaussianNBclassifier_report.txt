@@ -1,0 +1,18 @@
+
+GaussianNB()
+               precision    recall  f1-score   support
+
+           0       0.77      0.94      0.85        67
+           1       0.76      0.89      0.82        54
+           2       0.72      0.20      0.31        66
+           3       1.00      1.00      1.00        71
+           4       1.00      0.97      0.99        70
+           5       1.00      0.97      0.99        74
+           6       0.43      0.63      0.51        60
+
+    accuracy                           0.81       462
+   macro avg       0.81      0.80      0.78       462
+weighted avg       0.83      0.81      0.79       462
+
+ accuracy score: 0.8073593073593074
+ Remarks: good Model

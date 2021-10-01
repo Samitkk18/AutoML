@@ -1,0 +1,14 @@
+
+LogisticRegression(random_state=0)
+               precision    recall  f1-score   support
+
+           0       0.86      0.39      0.53        31
+           1       0.80      0.97      0.88        80
+
+    accuracy                           0.81       111
+   macro avg       0.83      0.68      0.71       111
+weighted avg       0.82      0.81      0.78       111
+
+ accuracy score: 0.8108108108108109
+ Roc auc score: 0.6810483870967742
+ Remarks: good Model
