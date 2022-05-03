@@ -6,3 +6,7 @@ Then our app preprocesses the dataset and applies various Machine learning Regre
 After processing our system will return a model with highest perform which the user can download and use.
 
 Tech Stack: React JS , Flask , Python , Tensorflow , sklearn
+
+Code inside the backend folder.
+
+Publication link - https://ieeexplore.ieee.org/abstract/document/9711766
